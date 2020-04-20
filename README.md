@@ -3,7 +3,7 @@ Preparing YOLO v3 Custom training data
 Dataset:
   1. If you want to use google openimage dataset (downloaded from google openimage):
      
-         a. clone OIDv4_ToolKit folder(above) to local. Path must be space free.
+         a. clone OIDv4_ToolKit-master folder(above) to local. Path must be space free.
          b. create one tensorflow virtual environment in anaconda and activate it.
          c. first fulfill all the requirements by running
          
@@ -32,7 +32,7 @@ Dataset:
                            Python oid_to_pascal_voc_xml.py
                            
                   This script will create same .xml file name as image in a right format that we'll use later.
-                If you are testing this script(oid_to_pascal_voc_xml), and starting it from original OIDv4 ToolKit path, you 
+                If you are testing this script(oid_to_pascal_voc_xml), and starting it from original OIDv4 ToolKit-master path, you 
                 should uncomment this line:
                 
                               #os.chdir(os.path.join("OID", "Dataset"))
@@ -54,7 +54,7 @@ Dataset:
                  2. dataset_file - this is the output file, that will be created with prepared annotation for YOLO training;
                  3. classes_file - don't need to change this, this file will be created with all used classes which were in xml file.
                  
-              With this script, 2 txt files will be created in OIDv4_ToolKit folder
+              With this script, 2 txt files will be created in OIDv4_ToolKit-master folder
              
   2. If you have your own dataset along with the csv file (containing image name, bounding box coordinates and class of image)
   
