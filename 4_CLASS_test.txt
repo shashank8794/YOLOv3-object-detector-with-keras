@@ -1,0 +1,400 @@
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\003d9b58f026ab6d.jpg 99,123,945,592,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\0132c27f807a2539.jpg 467,35,558,93,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\01ccde60eff7768f.jpg 0,0,1023,388,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\025eb78346068bce.jpg 75,159,965,602,0 677,2,724,35,0 826,40,882,90,0 827,0,863,7,0 912,17,952,49,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\0281c76235dd2248.jpg 154,346,933,781,0 0,334,48,415,0 34,345,229,474,0 312,345,417,393,0 602,343,832,443,0 818,340,942,399,0 825,371,991,607,0 942,336,991,397,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\03347e7344ce951a.jpg 141,477,360,564,0 521,476,553,575,0 986,495,1023,540,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\0697d5a234395457.jpg 156,135,865,670,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\0a10261cf04fc079.jpg 522,531,625,620,0 4,651,302,747,0 9,522,185,612,0 194,525,279,619,0 635,536,747,625,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\0ab5fc0c1b73de95.jpg 116,581,659,895,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\0b1385df78ddc06c.jpg 503,426,972,599,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\0d26fe70a25bbf49.jpg 0,193,1023,767,0 411,172,1023,225,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\0e123981cbc28da6.jpg 24,80,979,744,0 0,216,137,433,0 895,160,1023,332,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\1045cfe4e078ea66.jpg 562,420,621,464,0 616,459,774,565,0 620,431,668,454,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\1060aca78abb6d1e.jpg 102,275,686,448,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\141f1e37fc34c22e.jpg 90,69,284,172,0 328,590,576,714,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\151e11680daaf912.jpg 3,0,1018,653,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\15cf2eaa5ed86510.jpg 707,483,868,613,0 916,479,1023,596,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\1672be57b4fb6bf6.jpg 310,128,803,548,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\16a805c808970149.jpg 45,209,916,595,0 842,188,1023,308,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\178336318b30a7f6.jpg 45,498,554,726,0 153,122,666,405,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\17d1c943b052a388.jpg 313,498,711,736,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\1827fb9a8b7b6ce6.jpg 846,590,1024,778,0 0,552,416,795,0 411,546,450,582,0 443,550,466,579,0 464,514,510,555,0 520,510,571,562,0 560,538,579,568,0 579,570,970,704,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\186f9bfd33d8bf8a.jpg 49,303,623,804,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\1ae10afcd0e4b14f.jpg 506,544,655,631,0 311,543,348,590,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\1ae918189cbe6c9c.jpg 30,54,998,565,0 0,0,220,282,0 174,58,334,127,0 220,60,536,193,0 829,63,918,127,0 901,22,1023,212,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\1b682252a10cf696.jpg 0,0,1023,767,0 217,342,289,466,0 291,365,675,549,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\1c30ebc9fb33de8c.jpg 61,145,964,581,0 0,107,174,321,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\1c359669bf9b330b.jpg 152,15,595,180,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\1e6b4844a07d44db.jpg 220,115,712,349,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\1fbf3aa65286ae57.jpg 104,163,927,529,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\1fdf1ae8c6737adf.jpg 171,240,813,624,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\2482bdfedb1ea997.jpg 0,266,109,336,0 0,321,259,644,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\2487d72b9f5f6493.jpg 97,42,970,596,0 535,23,1023,337,0 619,26,753,78,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\24f25f01c3ebe846.jpg 505,320,646,421,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\259d76f454c01e86.jpg 250,215,713,462,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\27c07f36af89cbdb.jpg 867,280,1023,340,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\27f93e4fd1d5a354.jpg 0,143,841,669,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\294a4f78150be3b8.jpg 346,407,456,488,0 522,381,610,471,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\2950d065830a0fa2.jpg 429,524,468,554,0 519,528,595,573,0 728,531,877,657,0 840,502,1023,682,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\2b0be2e2a324b461.jpg 212,127,794,552,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\2b62b8a87318cb64.jpg 65,198,218,303,0 86,221,287,362,0 110,224,906,602,0 393,184,512,245,0 444,177,602,240,0 782,219,1023,380,0 790,203,916,269,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\2b82d63e762c8fca.jpg 51,235,319,479,0 609,338,621,368,0 618,332,635,371,0 661,348,689,367,0 750,355,766,368,0 822,352,837,366,0 984,335,1012,356,0 990,337,1007,353,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\2c3140ed849ca18c.jpg 303,498,481,673,0 488,490,662,673,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\2d595206acee991b.jpg 0,317,493,454,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\2f326d478633f78a.jpg 4,371,48,403,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\314a92443055fcb4.jpg 0,314,329,767,0 1,106,520,377,0 3,119,124,175,0 92,107,222,143,0 110,104,204,132,0 357,82,1023,561,0 436,111,555,171,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\337d2d2c16b642ac.jpg 90,99,954,548,0 477,97,1023,338,0 719,86,1023,177,0 880,86,1023,135,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\36a9c29c8915282a.jpg 142,379,783,568,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\3780304db5986e13.jpg 65,239,920,641,0 581,188,1023,490,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\3828b0cdf3945f36.jpg 28,247,825,498,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\384b4d78b84ed095.jpg 2,17,994,1022,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\3b9bac00e31a02dc.jpg 10,787,311,943,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\3fcb9709531b62ee.jpg 170,432,730,606,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\44c2b1de48399c35.jpg 22,123,979,495,0 875,129,1000,219,0 993,161,1023,181,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\468bcc1b5fc4a68d.jpg 476,544,655,608,0 696,548,870,618,0 836,547,938,611,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\46fd24352c4b0ca0.jpg 2,281,514,497,0 338,336,964,533,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\47d0acb86bbda331.jpg 1,15,964,517,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\486f68e9a61d67cc.jpg 52,385,300,485,0 219,182,428,305,0 435,112,510,191,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\49ebce37ca93f6b3.jpg 9,132,110,188,0 9,131,1023,329,0 38,129,145,192,0 42,134,152,201,0 76,134,189,196,0 110,134,224,209,0 154,136,268,213,0 186,132,323,214,0 219,134,383,221,0 265,130,445,239,0 326,134,600,246,0 391,132,772,266,0 548,132,901,285,0 661,137,1022,311,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\4c6ba88520b2af52.jpg 335,553,780,749,0 619,558,1023,767,0 882,540,1023,630,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\4c7c02b8861f665e.jpg 421,518,749,653,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\50bbe1c4c5a0c031.jpg 136,262,956,673,0 938,282,1023,456,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\516fd232bc5add34.jpg 0,378,230,500,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\5226ec4287705d50.jpg 36,673,198,836,0 181,662,267,803,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\5299a4a3f1241471.jpg 167,61,844,592,0 261,253,294,264,0 302,253,329,265,0 672,248,710,265,0 689,246,705,251,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\52bdd14b83e1227d.jpg 179,408,198,449,0 623,394,677,442,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\53405505f7a7e09a.jpg 6,557,262,752,0 384,628,423,655,0 473,606,587,689,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\543ad83b8c6ce36e.jpg 20,94,956,669,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\5653bb2cad2db5ab.jpg 0,87,130,175,0 0,69,459,389,0 212,72,846,445,0 824,72,1023,470,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\5762b1b2dc65ea5e.jpg 435,397,717,543,0 599,403,877,533,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\5876860df4177160.jpg 0,0,1022,1022,0 0,356,1022,811,0 54,261,483,368,0 723,348,903,443,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\597164cf941d1988.jpg 0,0,1023,681,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\59c3aa1c26484646.jpg 108,55,844,534,0 371,0,723,154,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\5ce68d4e32752c92.jpg 217,280,676,484,0 512,286,799,415,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\5d2e183189bbe22b.jpg 186,504,349,569,0 190,498,261,526,0 545,487,762,565,0 678,487,799,522,0 726,483,1013,591,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\5df021a7558c300a.jpg 343,373,947,555,0 989,427,1023,502,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\5f81a531e34dbcaa.jpg 80,33,973,680,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\60bfd18ddcdc4c2d.jpg 407,67,783,191,0 215,88,310,151,0 292,86,397,159,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\6201fb460952ffea.jpg 479,455,657,505,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\622c86f51319274a.jpg 184,312,627,672,0 0,322,334,679,0 152,315,371,427,0 339,345,481,425,0 419,206,870,644,0 794,356,947,566,0 866,345,998,456,0 881,229,1023,402,0 892,376,957,512,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\623b25cda01c829a.jpg 88,0,1023,737,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\63222144cbb06955.jpg 0,317,32,368,0 28,256,88,318,0 300,279,887,522,0 961,388,1023,534,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\6a5adf28aea14585.jpg 14,614,238,666,0 533,613,925,766,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\6b80703bf1ca3dd9.jpg 189,390,313,459,0 298,381,380,418,0 531,375,705,451,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\6cf45753cde02514.jpg 127,297,854,644,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\6e328f204bb5cca8.jpg 0,207,28,243,0 0,182,40,212,0 178,161,613,605,0 547,191,953,469,0 558,143,598,163,0 642,145,680,155,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\6ee6bec02507f182.jpg 237,111,821,527,0 737,180,942,281,0 1000,243,1023,281,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\7004f516b1029274.jpg 779,369,1024,557,0 918,381,976,397,0 993,375,1023,399,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\701f4a137ec20808.jpg 0,122,1023,682,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\709d62b23d31d652.jpg 126,467,591,657,0 0,543,17,614,0 0,462,143,585,0 986,475,1023,513,0 1007,477,1023,491,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\70cce5896ca40ab6.jpg 0,778,641,892,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\720671770b3f1280.jpg 504,288,883,465,0 813,334,1023,465,0 939,307,1023,373,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\72b2bf3711567ed8.jpg 340,288,880,385,0 1001,286,1023,328,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\74ea2c83b871e244.jpg 217,240,878,545,0 520,217,580,257,0 756,215,889,272,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\75db0ea9f426eae8.jpg 512,391,625,482,0 838,450,891,471,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\7623a11a34086096.jpg 28,23,742,696,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\783a5cadb33610a4.jpg 55,0,1002,680,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\78425329ba7232cb.jpg 796,398,887,472,0 104,422,221,516,0 207,423,230,499,0 723,421,732,447,0 731,425,751,445,0 930,424,981,472,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\7bec54af5b02c5ad.jpg 631,342,965,479,0 0,336,296,402,0 331,346,424,390,0 966,331,1023,413,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\7c40638915a657e7.jpg 0,514,239,680,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\7dfc6054076d0106.jpg 593,254,965,400,0 0,232,353,399,0 747,430,1023,686,0 1017,336,1023,365,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\7e0d4398b13d21f3.jpg 32,234,949,736,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\82214acd7c8ad97f.jpg 6,264,240,374,0 172,121,882,591,0 840,241,928,405,0 899,255,943,367,0 936,281,965,327,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\8b88613c5ba7ff53.jpg 0,16,594,1023,0 336,178,681,842,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\8bffd89b6cda54fe.jpg 303,379,1012,641,0 32,355,473,556,0 489,298,506,306,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\8e101da2a24ae94d.jpg 58,51,860,614,0 138,13,1023,111,0 614,117,1023,472,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\8e8546f259f088d3.jpg 532,208,930,493,0 0,76,79,135,0 0,146,110,321,0 23,110,295,209,0 95,73,232,124,0 113,237,658,594,0 218,69,393,136,0 577,81,631,109,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\8fb36418f2d11044.jpg 12,138,1023,680,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\9063e8d9a5b07bb7.jpg 198,332,787,657,0 628,319,726,372,0 818,330,954,403,0 990,339,1023,399,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\917773e8f4002a7a.jpg 0,85,1023,639,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\9181237626f5d25e.jpg 56,160,977,628,0 541,87,1023,346,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\91870f708b98965e.jpg 0,212,122,335,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\93744f8745656cc0.jpg 60,567,263,637,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\944c5568288048d0.jpg 0,158,416,682,0 615,94,1023,682,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\9481e37ff54fb032.jpg 0,0,1023,767,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\94ae1b8d6b891804.jpg 92,476,124,500,0 123,466,172,506,0 243,301,313,400,0 291,287,359,374,0 330,255,448,367,0 430,217,649,341,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\981322bebcf0bac3.jpg 0,135,212,255,0 43,82,967,633,0 553,98,1023,394,0 824,92,1023,203,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\9927b3cbb1f47d20.jpg 163,457,257,529,0 253,458,270,468,0 290,454,324,483,0 298,461,360,488,0 326,456,358,483,0 358,458,410,490,0 500,467,626,527,0 609,467,799,554,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\9ca7e1b1c9a8dec1.jpg 30,0,1023,677,0 264,0,358,39,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\9cabdf4ac63ee6d8.jpg 76,315,957,629,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\9e0d0e2f06a22f7a.jpg 40,86,932,625,0 715,82,1023,324,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\9e9805b6180a31cc.jpg 78,350,113,384,0 111,329,175,377,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\9ec4278674c24e1a.jpg 0,0,1022,1022,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\9f572925dd0a3312.jpg 116,449,285,617,0 173,386,246,439,0 238,376,298,423,0 524,409,671,520,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\a0c94e49e1a2f418.jpg 0,0,1023,682,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\a4bc46c722d8fc8b.jpg 278,617,488,769,0 481,598,567,664,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\a5f1e82f84c7c27e.jpg 40,3,991,673,0 0,0,216,85,0 174,0,1006,155,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\a60bcc3950891459.jpg 21,267,207,372,0 726,225,793,271,0 767,233,898,276,0 860,247,936,280,0 908,227,1023,396,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\a6703399a9416ca6.jpg 382,421,931,631,0 29,416,376,555,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\a7a9afa17ebe025a.jpg 408,186,794,395,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\a95ea31feb027fa4.jpg 219,403,656,682,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\aaa0fed4f900fc07.jpg 0,0,682,1023,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\aba4ff90b81fc270.jpg 182,181,602,404,0 505,111,530,123,0 548,112,570,143,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\aca7eb73d9610bde.jpg 44,258,617,888,0 0,194,95,374,0 128,243,268,369,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\b05def8c89fe10ac.jpg 0,44,1023,696,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\b0a36197aaaa6620.jpg 35,572,573,767,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\b2a8cceafea234d4.jpg 148,433,609,647,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\b4afabc7b0407240.jpg 0,491,88,764,0 466,435,1023,724,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\b519eae7ad7d1bcc.jpg 876,450,1020,579,0 261,489,280,506,0 296,490,325,514,0 341,489,376,514,0 371,485,387,505,0 424,489,476,523,0 471,490,497,506,0 615,488,666,516,0 677,475,785,525,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\b5d7486a03d3419a.jpg 0,535,164,639,0 94,537,293,614,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\b5dedf8f227eba7e.jpg 682,124,858,280,0 413,247,655,413,0 726,370,1023,580,0 881,32,1023,170,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\b75cab7648dfbb41.jpg 29,47,993,683,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\b7ae50a92380e302.jpg 0,0,1023,818,0 852,494,1023,818,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\b7c7771d3b562bf7.jpg 10,83,955,584,0 758,21,872,61,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\b7fc549faf7bab7f.jpg 0,262,211,448,0 142,280,876,540,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\b811f98693a81a5b.jpg 126,633,562,818,0 369,223,844,664,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\b8718b94269a2aae.jpg 0,0,1023,764,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\b90ddc50314a4e63.jpg 342,242,613,399,0 600,193,643,226,0 621,203,671,241,0 631,211,690,257,0 650,213,737,290,0 694,229,737,288,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\bbbaa2f9907a9d34.jpg 265,216,787,420,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\c2ac88282eeaca03.jpg 0,400,478,771,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\c2fc1fba25879ece.jpg 431,296,712,405,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\c349cd844c7c4bab.jpg 814,385,957,477,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\c3d40bdb6739c20a.jpg 7,516,90,623,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\c59533f058e0f378.jpg 206,183,989,615,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\c5db808302bce089.jpg 421,0,1023,682,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\c9b7ee7b2d37def0.jpg 184,62,906,477,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\cabda0cca80210d3.jpg 1,511,119,756,0 50,482,383,623,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\cacdf1eb0e8f09a1.jpg 390,708,675,841,0 0,650,109,753,0 291,693,387,793,0 347,669,517,812,0 567,730,686,865,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\cb5f12d57388f070.jpg 18,339,900,804,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\cba5d88ea842a834.jpg 734,404,865,524,0 502,438,526,459,0 530,432,572,466,0 572,437,612,463,0 645,416,717,488,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\cd0972a59cdae2bd.jpg 103,22,1022,520,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\cd329b922daa73bb.jpg 0,444,192,712,0 73,393,639,677,0 483,275,1003,595,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\cdbee5870166ca15.jpg 375,566,462,644,0 416,554,488,616,0 534,474,571,509,0 568,429,595,454,0 587,392,612,412,0 588,540,652,602,0 597,315,622,327,0 646,376,666,393,0 649,339,666,353,0 658,600,782,710,0 665,562,742,622,0 670,586,750,620,0 672,469,714,509,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\ce6dfff89b762f37.jpg 0,425,132,586,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\cefa15adcf375420.jpg 122,144,896,634,0 695,129,1023,454,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\d048c820b6e2c40f.jpg 243,62,814,494,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\d0791f281892953a.jpg 0,7,1023,218,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\d19d644d04da6938.jpg 35,43,979,565,0 0,0,74,83,0 59,0,145,44,0 275,0,849,153,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\d267aa26d1901e97.jpg 0,88,63,254,0 42,42,976,498,0 750,70,1023,264,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\d4149255934364d1.jpg 100,43,980,533,0 0,93,97,193,0 0,197,246,604,0 28,93,72,117,0 73,91,163,108,0 89,104,161,150,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\d641035986a581e7.jpg 774,597,1016,737,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\d744ba46a4bcdd9d.jpg 107,278,1023,682,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\d7e36aa5b6792ee2.jpg 0,268,8,292,0 0,272,49,339,0 22,259,100,297,0 45,261,107,293,0 96,266,173,314,0 122,256,178,277,0 218,282,852,708,0 350,255,370,272,0 369,251,385,256,0 371,256,396,276,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\db4137b46e35b5bd.jpg 156,282,972,612,0 0,333,24,371,0 42,310,1023,413,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\dbb4c6915a763d74.jpg 0,803,750,1023,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\ddd295919f8e2d74.jpg 52,52,972,651,0 0,18,211,246,0 158,48,218,94,0 218,48,324,97,0 781,65,1023,207,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\ddd9d47df4427585.jpg 0,360,61,518,0 1,339,49,374,0 141,357,231,471,0 168,335,253,400,0 179,346,483,483,0 588,355,696,484,0 810,324,909,434,0 899,313,1023,429,0 938,393,1023,494,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\de11e92e5aac1915.jpg 0,398,29,451,0 10,336,239,461,0 934,413,1023,492,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\e1382c86cfb0b7dd.jpg 0,526,383,652,0 0,524,453,848,0 149,514,676,977,0 595,790,676,1023,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\e43dd8c9679bd2dd.jpg 19,97,1016,476,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\e67581fc8b5ed694.jpg 273,446,368,518,0 402,466,447,500,0 449,468,479,491,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\e72554760dd44ee0.jpg 476,430,821,667,0 0,402,352,682,0 2,354,310,481,0 310,381,476,465,0 470,389,544,432,0 763,422,900,549,0 789,374,935,491,0 861,340,948,375,0 936,366,977,406,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\e7f7a704c96bbfc3.jpg 0,160,363,894,0 350,238,677,407,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\ea899e538cfda962.jpg 35,302,166,345,0 212,286,300,346,0 396,281,531,332,0 679,269,901,338,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\ee510a7f39586916.jpg 0,324,464,767,0 184,325,444,438,0 387,326,500,438,0 535,328,680,511,0 637,301,1023,578,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\f04eb24dbfa66ccc.jpg 275,616,527,677,0 800,482,1003,563,0 918,464,1023,540,0 968,455,1023,488,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\f06f51720a8255cd.jpg 2,417,61,496,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\f07d2cdb584dbf54.jpg 571,880,907,1009,0 0,728,115,994,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\f19f5ee59664718c.jpg 0,0,903,681,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\f3990b07b10a6d62.jpg 12,120,833,605,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\f71446f05402999c.jpg 63,583,218,646,0 170,594,307,656,0 232,542,271,563,0 451,537,499,567,0 749,545,834,577,0 804,655,1023,767,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\f7835fe18002d804.jpg 0,344,502,758,0 379,296,702,496,0 928,332,1023,508,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\f88a07f168f82738.jpg 274,262,771,567,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\fb375838d296122a.jpg 33,564,106,595,0 122,571,145,595,0 854,562,933,597,0 923,570,941,589,0 1001,562,1023,595,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\fbfbc65e38657039.jpg 47,371,167,465,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\fd9dc2b4429c2ba5.jpg 604,16,1023,331,0 0,61,191,236,0 567,54,747,145,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\fecb088c048c048b.jpg 282,357,376,403,0 388,389,620,478,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\fedf113366f1396c.jpg 0,50,97,189,0 228,54,1010,383,0 815,43,1023,259,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\ff7ba002f037b181.jpg 643,416,996,565,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Car\ff931981498f6861.jpg 0,0,966,681,0
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\001679a19bb6fd3f.jpg 328,394,349,454,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\003eb877f2eb5fb5.jpg 432,844,521,1023,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\009ef5ff9f16f221.jpg 544,526,594,655,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\00c19c5b6648b583.jpg 0,337,205,682,1 252,353,381,682,1 598,251,765,682,1 771,238,1000,639,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\0106d19c424cd49a.jpg 188,50,654,941,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\01929e322c3657a9.jpg 205,0,607,423,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\029a339e20713da2.jpg 181,131,540,936,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\02d43f8313a28990.jpg 123,184,475,872,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\02fd9a3eda5c8207.jpg 315,248,572,816,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\0313b07e33f8a5ad.jpg 690,144,973,766,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\04030cba0a81cd37.jpg 162,398,252,534,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\0591d80451c77f89.jpg 58,70,319,772,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\06b4e7420f8e669a.jpg 627,500,716,725,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\07251ab9c1197b1d.jpg 168,39,905,679,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\085827899bc32823.jpg 353,186,664,837,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\08e80bbba1cc4dab.jpg 402,186,595,600,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\0938a5c51da5a690.jpg 483,84,863,674,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\09c5763f6f945963.jpg 249,64,618,627,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\0a08169241bdcf96.jpg 59,219,791,766,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\0a0b97aa8518cdb2.jpg 293,158,650,647,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\0a3e3712f965b6a2.jpg 262,455,399,771,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\0a5cff35686605d5.jpg 358,291,685,995,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\0a8f5c4779db8b3b.jpg 300,358,436,729,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\0ad9f00685c10d93.jpg 393,38,725,684,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\0e261a5d321c72c5.jpg 4,169,486,988,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\0e665df52228d7f6.jpg 424,219,639,564,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\0ea0bd4ad8e89778.jpg 290,547,468,967,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\0f800cae5a61a208.jpg 262,454,365,764,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\10f3ef24f968197b.jpg 252,369,373,617,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\1154e35f1edbdd62.jpg 737,234,849,544,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\12302a4f22ae20e3.jpg 404,151,602,604,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\12e7e01404cd3f47.jpg 740,118,927,607,1 744,183,929,611,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\14482214889a6e95.jpg 358,312,422,620,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\1457609c753188e7.jpg 309,260,644,1006,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\15f3fa0248a10ace.jpg 257,164,526,787,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\16b0341cee07bba9.jpg 313,97,820,678,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\16dd30faa20bafdc.jpg 240,138,531,678,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\1720671c27ee9cd8.jpg 125,358,246,708,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\17d56df33682d9d5.jpg 73,24,1022,874,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\1a18d59963dcd4d4.jpg 349,139,393,236,1 620,187,766,472,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\1a8fd9713f718fff.jpg 131,124,608,1020,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\1acd3340ea42a259.jpg 16,346,533,716,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\1c48ba2c67440a42.jpg 392,70,947,750,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\1d074e321165fe4d.jpg 323,434,454,762,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\1de852e900ea6736.jpg 104,62,400,899,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\2110f92f2f2a3b46.jpg 130,615,237,870,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\21ee840224e97709.jpg 187,144,426,526,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\2234cbe71362fe65.jpg 138,52,294,490,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\2500ff51d4171f4c.jpg 170,468,314,762,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\257a47dea0d24b9a.jpg 5,51,726,842,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\26f74c5d10f9f99d.jpg 131,364,595,886,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\288f8573968c6390.jpg 225,624,371,934,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\2911f2ca62ff6548.jpg 159,221,539,1023,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\2bdcbddb4cc5cd91.jpg 403,473,543,841,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\2c1fe1ca09e10512.jpg 86,381,260,790,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\2c8ac32ffb411ae3.jpg 404,454,636,767,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\2cd708c4ce96e5f3.jpg 147,8,362,640,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\2d82467bec50c159.jpg 0,0,676,977,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\2e50d96306d8293c.jpg 18,42,716,1023,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\2e855fadbb4f60d6.jpg 150,70,488,1023,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\2f43524915aa5d04.jpg 206,68,555,881,1 206,63,561,881,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\2fc37fe3b0317cc6.jpg 150,162,888,678,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\3025da00dfe11d4c.jpg 523,395,623,643,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\30fa0c0f7100ca93.jpg 339,243,497,558,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\334e078bc8c59303.jpg 617,183,969,726,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\37efab758fc82ed1.jpg 566,224,737,610,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\381e18187bdae4c6.jpg 99,135,606,938,1 103,134,605,943,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\393aec2bfba69c37.jpg 135,206,447,883,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\3ace8bd47bef89ef.jpg 468,24,819,682,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\3b00eaee958aaeb6.jpg 356,374,664,843,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\3b46230678253ac1.jpg 69,42,673,1023,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\3b4aabaeae9015b5.jpg 170,48,696,767,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\3b762a5b38babf7b.jpg 170,49,519,941,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\3cb790ded657ed46.jpg 110,290,289,639,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\3d138e9c3f74c95a.jpg 219,143,563,911,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\3d5233fde57b6b83.jpg 383,0,928,682,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\3d8e8990a6513430.jpg 239,104,660,989,1 241,102,662,982,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\3e62607299613ac9.jpg 153,125,463,946,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\3e92b986ffaed891.jpg 226,221,565,734,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\40f9456f504e3324.jpg 201,293,463,692,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\417468f1bda12ad5.jpg 138,26,479,657,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\4328602be86bd43c.jpg 83,159,597,930,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\439a7c8030ae4663.jpg 79,82,319,651,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\461b196bfa3340c5.jpg 46,52,576,655,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\495e5394e3d443b2.jpg 144,225,504,977,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\496e864971c28183.jpg 273,85,666,655,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\4974b9e909b63d1a.jpg 0,0,1023,684,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\49ec289f4bffb727.jpg 63,440,399,1002,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\4caa95f55b19a4ec.jpg 318,272,535,668,1 321,270,543,680,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\4dba066ac4b250e4.jpg 47,40,716,908,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\4de26c7341a28a84.jpg 42,98,355,656,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\4dec87b70e6a06bb.jpg 322,132,610,699,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\4f31bac45eadfb41.jpg 247,145,684,640,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\4f67f82b21774abb.jpg 344,0,766,934,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\4f7b380083cdba9c.jpg 95,26,904,766,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\4f9ef843346a9674.jpg 390,272,677,699,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\53c9b07e505c5fa2.jpg 80,15,703,951,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\542ac0c9cb13ca73.jpg 195,108,611,870,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\54fa75cbb9d9579d.jpg 196,35,577,953,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\561bf69e96f35a63.jpg 612,168,973,668,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\5aaefaba039fd1d6.jpg 131,194,545,876,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\5affb727950c9686.jpg 12,245,972,767,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\5bf9b30eff612290.jpg 290,201,624,831,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\5c4b5a6ca54c7564.jpg 299,634,477,934,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\5cbb455552f96d3c.jpg 316,295,419,634,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\5cf2eb8d02471e12.jpg 166,44,636,1023,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\5db8c40ca0673bdc.jpg 731,199,933,532,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\5e05a0f4714ee1d4.jpg 445,316,590,657,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\5ffd08ba0a251f8b.jpg 397,85,739,695,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\61bed49bcef7e310.jpg 526,129,886,701,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\61cb43cb6a0a1f94.jpg 264,183,576,771,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\6272f47c26cd870e.jpg 8,208,940,648,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\63c90a851826234c.jpg 126,211,559,897,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\63d8bc0081f0b695.jpg 250,393,406,744,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\649767ff3206928c.jpg 330,126,543,461,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\656f5ec7159ee17c.jpg 728,198,883,515,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\66863bed7c4a4f09.jpg 29,44,460,972,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\68178eda34a7d67d.jpg 147,173,321,547,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\69424176449d2f54.jpg 131,225,629,803,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\6956950f7d93a78e.jpg 95,215,435,847,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\6b4510639bd1028a.jpg 89,143,715,652,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\6c18e3137257fe0a.jpg 129,67,424,614,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\6c892416ecd1b766.jpg 111,73,600,867,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\6f440eec6ce64656.jpg 763,35,972,555,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\6f61c3d9e9e0a386.jpg 152,122,505,776,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\7206bbbabc612437.jpg 349,353,669,896,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\7405f05463defb65.jpg 115,95,579,932,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\74361824ddf0d50f.jpg 96,26,570,1023,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\7474761b1d130ab6.jpg 178,232,582,1023,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\748d64f3f5a49b7b.jpg 171,199,459,771,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\7671cc966c711f1b.jpg 216,4,536,1023,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\78397b86f5227432.jpg 28,319,708,1023,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\78b236a7f41f0afa.jpg 189,48,881,767,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\791c871aab3690c7.jpg 216,0,681,1011,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\7b1fca3bcd960eac.jpg 17,0,466,681,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\7bd26c6d0bbb1f9e.jpg 631,147,835,610,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\81ba780ca2eb8c9b.jpg 40,199,491,918,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\81ef38ca06697834.jpg 385,324,603,674,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\8333973025f6309c.jpg 321,235,675,735,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\83f2af874542b489.jpg 175,330,636,996,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\84168ec26fc97ea6.jpg 241,78,632,989,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\849872509f14030e.jpg 71,31,475,499,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\84cac0b842609cf3.jpg 258,262,655,988,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\85ac7792bfd45870.jpg 0,137,625,767,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\85b9a98b4e245546.jpg 420,77,626,587,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\85fc838030b5408c.jpg 298,88,612,653,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\8a043c932f6ec946.jpg 436,25,784,658,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\8b254b31e7c900fd.jpg 518,20,857,753,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\8cb6abd2c6fa633a.jpg 172,50,506,622,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\8d9e8d98b8f102ad.jpg 0,0,1023,778,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\8f609f01753d69e7.jpg 0,85,572,1023,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\8ff694b19561c3df.jpg 374,73,631,846,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\944aa4ff3d51c90b.jpg 180,51,664,619,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\94ab742b5e3504e9.jpg 431,42,889,735,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\966269bac018cd9f.jpg 227,161,457,675,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\9766d90d60bb96b6.jpg 253,74,1002,545,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\976836d7ed5c602d.jpg 129,42,558,606,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\9782ef2c2e58aa41.jpg 378,139,742,907,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\9814dc2bf63764a3.jpg 3,186,489,681,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\99025e73c8ed0133.jpg 152,379,499,930,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\9d1feb88f7fc5d76.jpg 798,256,909,576,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\9dd560299b72d70e.jpg 330,252,548,641,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\9e4186a54d88d096.jpg 290,154,552,726,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\9f91872a2321ef24.jpg 205,120,565,734,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\a2c657eab6387487.jpg 138,37,820,722,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\a3293aebf3086c9f.jpg 160,440,405,891,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\a5f90d47ad2a9a85.jpg 225,85,609,893,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\ab1a0e9ca5d447fc.jpg 334,437,444,710,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\ad24d9a30fff09c7.jpg 630,547,782,918,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\afb846c03fc07d8b.jpg 90,204,510,829,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\b2cf8fc794ed1485.jpg 420,69,1007,679,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\b43284465f0f9931.jpg 198,76,607,916,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\b72334699714afdc.jpg 173,39,478,738,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\b9d38f19179a181e.jpg 72,89,319,1023,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\bab81ffb1c2d75d9.jpg 220,200,483,865,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\c1022724400b281f.jpg 244,64,593,722,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\c18017b06d4aaf40.jpg 434,0,981,682,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\c1eda59039e0e76b.jpg 280,42,761,643,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\c32255e220026d30.jpg 225,131,447,844,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\c563b7ff7ee2de07.jpg 566,24,905,779,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\c5941956dda22c84.jpg 231,185,522,825,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\cc0fd17b0cd153a6.jpg 126,35,677,634,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\cc5562e820cdbffb.jpg 285,10,597,581,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\cd02bef6a0634715.jpg 225,2,484,546,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\d068083f5daa69d4.jpg 7,0,583,1022,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\d1f77ec7b555d041.jpg 213,353,608,981,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\d3bd0120ce940fe5.jpg 120,63,585,975,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\d55a7b7e0d4df41e.jpg 312,0,769,767,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\d86ed01f7a611e79.jpg 542,278,806,695,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\dbcc1113028e79b5.jpg 131,218,445,899,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\df63bc2e841b29c4.jpg 325,69,522,990,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\e53fc74d3a1d22d1.jpg 369,0,1023,767,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\e8004c1e2d776b6c.jpg 257,124,622,643,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\ed77087987c4cd44.jpg 164,229,775,516,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\edc04433ee4e3eb2.jpg 221,140,761,853,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\f41eaa73cb494940.jpg 424,126,548,473,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\f43b728f35ef2b4b.jpg 199,232,521,778,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\f7ca36151bb6d0de.jpg 253,494,431,970,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\f865d576895e300e.jpg 233,216,481,614,1
+C:\Users\shash\Desktop\machine_learning_practice\yolo_custom_data\OIDv4_ToolKit-master\OID\Dataset\train\Fire_hydrant\f9e037fe308da5f6.jpg 550,250,701,759,1
